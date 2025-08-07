@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Aprender React Native",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Estudar PHP",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Fazer compras",
+    "completed": false
+  }
+]
